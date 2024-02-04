@@ -26,7 +26,7 @@ export default function Layout({ title, children }: LayoutProps) {
         />
         <meta property="og:image" content={`${PUBLIC_URL}/banner.jpg`} />
         <meta property="og:url" content={`${PUBLIC_URL}`} />
-        <meta name="author" content="Lukman" />
+        <meta name="author" content="ilhamjaya08" />
 
         <link
           rel="shortcut icon"

@@ -16,7 +16,7 @@
 /build
 
 #environment
-.env*.local
+
 
 # misc
 .DS_Store

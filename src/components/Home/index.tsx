@@ -876,7 +876,7 @@ export default function Landing({ data }: HomeProps) {
                     target="_blank"
                     style={{ textDecoration: "none" }}
                   >
-                    Lukman
+                    ilhamjaya08
                   </a>
                 </p>
               </nav>
