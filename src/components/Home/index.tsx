@@ -174,7 +174,7 @@ export default function Landing({ data }: HomeProps) {
                 data-aos="zoom-out-up"
               >
                 <h1 className="title-text-big">
-                  Relived Roleplay
+                  Luminary State Roleplay
                   <br />
                   Server SA:MP dari Indonesia
                 </h1>
@@ -226,7 +226,7 @@ export default function Landing({ data }: HomeProps) {
             <h1 className="text-title text-center text-white">About Us</h1>
             <div className="d-block mx-auto">
               <p className="text-caption text-center about-text">
-                Relived Roleplay adalah sebuah server SA:MP yang didirikan pada
+                Luminary State Roleplay adalah sebuah server SA:MP yang didirikan pada
                 tahun 2019 yang dahulunya adalah Lacoste Roleplay. Tujuan
                 dibuatnya server ini adalah untuk meningkatkan kualitas dan
                 kenyamanan serta kepuasan dalam bermain.
@@ -402,7 +402,7 @@ export default function Landing({ data }: HomeProps) {
             <h1 className="text-title text-center text-white">Features</h1>
             <div className="d-block mx-auto">
               <p className="text-caption text-center about-text">
-                Relived Roleplay memiliki beberapa fitur yang dapat memberikan
+                Luminary State Roleplay memiliki beberapa fitur yang dapat memberikan
                 permainan yang lebih menarik.
               </p>
             </div>
@@ -868,7 +868,7 @@ export default function Landing({ data }: HomeProps) {
               </div>
               <nav className="d-flex flex-lg-row flex-column align-items-center justify-content-center">
                 <p style={{ margin: 0 }}>
-                  Copyright &copy; {new Date().getFullYear()} Relived Community.
+                  Copyright &copy; {new Date().getFullYear()} Luminary State Community.
                   Developed by{" "}
                   <a
                     href="https://instagram.com/lukmaan.24/"

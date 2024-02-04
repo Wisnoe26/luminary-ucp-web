@@ -10,19 +10,19 @@ export default function Layout({ title, children }: LayoutProps) {
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <title>{title}</title>
-        <meta name="title" content="Relived Community" />
+        <meta name="title" content="Luminary State Community" />
         <meta
           name="description"
-          content={`${title} - Relived Roleplay adalah server dari GTA San Andreas Multiplayer yang didedikasikan untuk seluruh player SA:MP, server ini bermode Roleplay.`}
+          content={`${title} - Luminary State Roleplay adalah server dari GTA San Andreas Multiplayer yang didedikasikan untuk seluruh player SA:MP, server ini bermode Roleplay.`}
         />
         <meta
           name="keywords"
-          content="relived community, rrp, relived roleplay, relived rp, samp relived roleplay, relived roleplay samp, relived community samp, rrp gta samp, gta samp rrp"
+          content="Luminary State community, rrp, Luminary State roleplay, Luminary State rp, samp Luminary State roleplay, Luminary State roleplay samp, Luminary State community samp, rrp gta samp, gta samp rrp"
         />
         <meta property="og:title" content={title} />
         <meta
           property="og:description"
-          content={`${title} - Relived Roleplay adalah server dari GTA San Andreas Multiplayer yang didedikasikan untuk seluruh player SA:MP, server ini bermode Roleplay.`}
+          content={`${title} - Luminary State Roleplay adalah server dari GTA San Andreas Multiplayer yang didedikasikan untuk seluruh player SA:MP, server ini bermode Roleplay.`}
         />
         <meta property="og:image" content={`${PUBLIC_URL}/banner.jpg`} />
         <meta property="og:url" content={`${PUBLIC_URL}`} />

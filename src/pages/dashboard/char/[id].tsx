@@ -9,7 +9,7 @@ import { CharProps } from "@/data-types";
 
 function Char({ account, character, veh }: CharProps) {
   return (
-    <Layout title="Relived - Character Details">
+    <Layout title="Luminary State - Character Details">
       <Navbar account={account} />
       <section
         className="h-100 w-100"

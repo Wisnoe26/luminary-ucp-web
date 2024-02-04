@@ -4,7 +4,7 @@ import { isTokenValid } from "@/components/Utils";
 
 export default function Login() {
   return (
-    <Layout title="Relived - Login Page">
+    <Layout title="Luminary State - Login Page">
       <LoginPage />
     </Layout>
   );

@@ -111,7 +111,7 @@ export default function Settings({ account }: SettingsProps) {
   };
 
   return (
-    <Layout title="Relived - Settings Page">
+    <Layout title="Luminary State - Settings Page">
       <Navbar account={account} />
       <section
         className="h-100 w-100 text-white"

@@ -27,7 +27,7 @@ export default function Vehicle({ account, id }: VehicleProps) {
   }, [id]);
 
   return (
-    <Layout title="Relived - Player Vehicles">
+    <Layout title="Luminary State - Player Vehicles">
       <Navbar account={account} />
       <section
         className="h-100 w-100"

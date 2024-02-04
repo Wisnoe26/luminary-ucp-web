@@ -27,7 +27,7 @@ export default function Index({ players, stats }: DashboardIndexProps) {
   }, [router]);
 
   return (
-    <Layout title="Relived - Dashboard Page">
+    <Layout title="Luminary State - Dashboard Page">
       <Navbar account={account} />
       <section
         className="h-100 w-100"

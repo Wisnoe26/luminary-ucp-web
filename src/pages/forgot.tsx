@@ -53,7 +53,7 @@ export default function Forgot() {
   };
 
   return (
-    <Layout title="Relived - Forgot Page">
+    <Layout title="Luminary State - Forgot Page">
       <section
         className="h-100 w-100"
         style={{ boxSizing: "border-box", backgroundColor: "#141432" }}
@@ -234,7 +234,7 @@ export default function Forgot() {
                         <p>
                           2. Jika Anda tidak bisa login ke game, Anda dapat
                           mengirimkan <em>Direct Message</em> ke Head Admin
-                          melalui Discord Server Relived Roleplay.
+                          melalui Discord Server Luminary State Roleplay.
                         </p>
                       </div>
                     </div>
@@ -274,7 +274,7 @@ export default function Forgot() {
                         <p>
                           2. Jika Anda tidak bisa login ke game, Anda dapat
                           mengirimkan <em>Direct Message</em> ke Head Admin
-                          melalui Discord Server Relived Roleplay.
+                          melalui Discord Server Luminary State Roleplay.
                         </p>
                       </div>
                     </div>
