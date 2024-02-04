@@ -49,7 +49,7 @@ export default function ResetPassword() {
   };
 
   return (
-    <Layout title="Luminary State - Forgot Page">
+    <Layout title="Relived - Forgot Page">
       <section
         className="h-100 w-100"
         style={{ boxSizing: "border-box", backgroundColor: "#141432" }}

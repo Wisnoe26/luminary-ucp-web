@@ -16,7 +16,7 @@ import callAPI from "@/config/api";
 
 export default function Profile({ account, profile }: ProfileProps) {
   return (
-    <Layout title="Luminary State - Profile Page">
+    <Layout title="Relived - Profile Page">
       <Navbar account={account} />
       <section
         className="h-100 w-100"

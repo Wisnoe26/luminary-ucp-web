@@ -56,7 +56,7 @@ export default function Characters({ account, ucp }: CharactersProps) {
   };
 
   return (
-    <Layout title="Luminary State - My Characters">
+    <Layout title="Relived - My Characters">
       <Navbar account={account} />
       <section
         className="h-100 w-100"

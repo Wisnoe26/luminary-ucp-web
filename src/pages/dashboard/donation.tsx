@@ -25,7 +25,7 @@ export default function Donation({ donation }: DonationProps) {
   }, [router]);
 
   return (
-    <Layout title="Luminary State - Donation Page">
+    <Layout title="Relived - Donation Page">
       <Navbar account={account} />
       <section
         className="h-100 w-100"

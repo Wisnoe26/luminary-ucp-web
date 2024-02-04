@@ -9,7 +9,7 @@ export default function Home({
   data,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
-    <Layout title="Luminary State Community">
+    <Layout title="Relived Community">
       <Landing data={data} />
     </Layout>
   );

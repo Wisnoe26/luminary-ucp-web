@@ -9,7 +9,7 @@ export default async function sendEmail(
 ) {
   return await new Promise(async (resolve, reject) => {
     const options = {
-      from: `Luminary State Roleplay <${USER_EMAIL}>`,
+      from: `Relived Roleplay <${USER_EMAIL}>`,
       to: email,
       subject,
       html,

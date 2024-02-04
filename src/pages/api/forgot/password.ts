@@ -89,7 +89,7 @@ export default async function handler(
         <thead style='background-color: red; color: white'>
           <tr>
             <th>
-              <h1 style='color: white;'>Luminary State Roleplay</h1>
+              <h1 style='color: white;'>Relived Roleplay</h1>
             </th>
           </tr>
         </thead>
@@ -116,7 +116,7 @@ export default async function handler(
           <tr>
             <td>
               <div style='color: #8e8e8e; text-align: center; font-size: 1em'>
-                Copyright &copy; ${new Date().getFullYear()} Luminary State Roleplay. All rights reserved.
+                Copyright &copy; ${new Date().getFullYear()} Relived Roleplay. All rights reserved.
               </div>
             </td>
           </tr>
