@@ -132,7 +132,7 @@ export default function Landing({ data }: HomeProps) {
                       Log In
                     </a>
                     <a
-                      href="https://discord.gg/relivedroleplay"
+                      href="https://discord.gg/53bWSURQPj"
                       target="_blank"
                       className="btn btn-outline btn-no-fill"
                       rel="noreferrer"
@@ -156,7 +156,7 @@ export default function Landing({ data }: HomeProps) {
                   <a className="btn btn-fill text-white border-0">Log In</a>
                 </Link>
                 <a
-                  href="https://discord.gg/relivedroleplay"
+                  href="https://discord.gg/53bWSURQPj"
                   target="_blank"
                   className="btn btn-outline btn-no-fill ms-3"
                   rel="noreferrer"
@@ -176,7 +176,7 @@ export default function Landing({ data }: HomeProps) {
                 <h1 className="title-text-big">
                   Luminary State Roleplay
                   <br />
-                  Server SA:MP dari Indonesia
+                  Indonesian SA:MP Server
                 </h1>
                 <div className="d-flex flex-sm-row flex-column align-items-center mx-lg-0 mx-auto justify-content-center gap-3">
                   <Link href="/login">
@@ -185,7 +185,7 @@ export default function Landing({ data }: HomeProps) {
                     </a>
                   </Link>
                   <a
-                    href="https://discord.gg/relivedroleplay"
+                    href="https://discord.gg/53bWSURQPj"
                     target="_blank"
                     className="btn btn-outline"
                     rel="noreferrer"
@@ -369,7 +369,7 @@ export default function Landing({ data }: HomeProps) {
               <div className="col-lg-6 column" data-aos="fade-zoom-in">
                 <div className="d-flex align-items-center justify-content-center">
                   <iframe
-                    src="https://discord.com/widget?id=914691384345239592&theme=dark"
+                    src="https://discord.com/widget?id=1197805566739890259&theme=dark"
                     width="500"
                     height="500"
                     frameBorder="0"
@@ -839,7 +839,7 @@ export default function Landing({ data }: HomeProps) {
                   </svg>
                 </a>
                 <a
-                  href="https://www.instagram.com/relivedcommunity/"
+                  href="https://www.instagram.com/luminarystate/"
                   target={"_blank"}
                   rel="noreferrer"
                 >
@@ -869,9 +869,9 @@ export default function Landing({ data }: HomeProps) {
               <nav className="d-flex flex-lg-row flex-column align-items-center justify-content-center">
                 <p style={{ margin: 0 }}>
                   Copyright &copy; {new Date().getFullYear()} Luminary State Community.
-                  Developed by{" "}
+                  Build, Maintained, and Developed by{" "}
                   <a
-                    href="https://instagram.com/lukmaan.24/"
+                    href="https://instagram.com/ilham.j_08/"
                     rel="noreferrer"
                     target="_blank"
                     style={{ textDecoration: "none" }}

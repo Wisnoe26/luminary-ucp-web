@@ -7,14 +7,14 @@ export default function Footer() {
       >
         <div className="text-center py-3">
           Copyright &copy; {new Date().getFullYear()} Luminary State Community.
-          Developed by{" "}
+          Build, Maintained, and Developed by{" "}
           <a
-            href="https://instagram.com/lukmaan.24/"
+            href="https://instagram.com/ilham.j_08/"
             rel="noreferrer"
             target="_blank"
             style={{ textDecoration: "none" }}
           >
-            Lukman
+            ilhamjaya08
           </a>
         </div>
       </div>

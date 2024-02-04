@@ -1,9 +1,9 @@
 {
-  "name": "relived-ucp-ts",
+  "name": "luminary-ucp-web",
   "version": "0.1.0",
   "description": "Luminary State Roleplay Website",
-  "repository": "https://github.com/Lukman350/relived-ucp.git",
-  "author": "Lukman350 <nulhakiml725@gmail.com>",
+  "repository": "https://github.com/ilhamjaya08/luminary-ucp-web.git",
+  "author": "ilhamjaya08 <m.ilhamjaya1808@gmail.com>",
   "private": true,
   "license": "MIT",
   "scripts": {
