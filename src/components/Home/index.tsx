@@ -294,7 +294,7 @@ export default function Landing({ data }: HomeProps) {
                             <tr>
                               <td>IP</td>
                               <td>
-                                {`samp.relivedrp.com atau ${data.address}` || (
+                                {`204.10.192.68 atau ${data.address}` || (
                                   <Skeleton duration={5} />
                                 )}
                               </td>

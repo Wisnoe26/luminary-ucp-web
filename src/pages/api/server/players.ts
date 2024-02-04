@@ -11,8 +11,8 @@ export default async function handler(
 
   if (method === "GET") {
     const options = {
-      host: "15.235.140.64",
-      port: 7777,
+      host: "204.10.192.68",
+      port: 7005,
     };
 
     await query(options, (err: string, data: object) => {
